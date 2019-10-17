@@ -12,3 +12,5 @@ else:
         else:
             print("Suspendido por ahora o no ")
             print("Eres muy burro")
+            print("he modificado el fichero en developer")
+            print("he modificado el fichero en master")
